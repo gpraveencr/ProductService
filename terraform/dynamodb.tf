@@ -1,4 +1,5 @@
 
+# DynamoDB Policies
 
 resource "aws_dynamodb_table" "product_table" {
   name         = "PRODUCT"
